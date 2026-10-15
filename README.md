@@ -12,6 +12,7 @@
 <h3 align="center">
   Full-stack Developer • AI Agent Builder • Software Developer
 </h3>
+
 ## 🚀 About Me
 
 - 🎓 Studying **Software Engineering**
