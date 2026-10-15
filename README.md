@@ -15,11 +15,6 @@
        alt="Full-stack Developer · AI Agent Builder · Software Developer" />
 </p>
 
-<img align="right"
-     alt="Coding"
-     width="300"
-     src="https://i.pinimg.com/originals/50/99/18/509918b2b60b25cd2d683f9963f0f59a.gif" />
-
 ## 🚀 About Me
 
 - 🎓 Studying **Software Engineering**
