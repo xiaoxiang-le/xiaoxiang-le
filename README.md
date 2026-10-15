@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/8b7e4ed0-7bd4-4841-8c07-9ee46f0efe1c
+
 <h1 align="center">Hi 👋, I'm Wulawula~</h1>
 
 <h3 align="center">
