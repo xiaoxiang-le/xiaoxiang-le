@@ -11,7 +11,7 @@
   Full-stack Developer • AI Agent Builder • Software Developer
 </h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,docker,vue,nodejs"
        height="40"
        alt="Python, TypeScript, Docker, Vue 3, Node.js" />
