@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wulawula~</h1>
 
 <p align="center">
-  <em>Keep building, keep learning.</em>
+  <em>Keep coding, keep learning.</em>
 </p>
 
 ## 📊 Contribution Activity
