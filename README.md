@@ -109,19 +109,30 @@
 ---
 
 ## 📊 Contribution Activity
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoxiang-le&theme=github_dark"
-       alt="xiaoxiang-le's GitHub contribution summary" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaoxiang-le&theme=github_dark"
+    alt="GitHub contribution summary"
+    width="100%"
+  />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/xiaoxiang-le/xiaoxiang-le/gh-pages/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/xiaoxiang-le/xiaoxiang-le/gh-pages/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/xiaoxiang-le/xiaoxiang-le/gh-pages/pacman-contribution-graph.svg"
-         alt="Pacman contribution graph" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/xiaoxiang-le/xiaoxiang-le/gh-pages/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/xiaoxiang-le/xiaoxiang-le/gh-pages/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/xiaoxiang-le/xiaoxiang-le/gh-pages/pacman-contribution-graph.svg"
+      alt="Pacman contribution graph"
+      width="100%"
+    />
   </picture>
 </p>
