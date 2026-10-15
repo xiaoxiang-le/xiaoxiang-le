@@ -3,15 +3,15 @@
 
 <h1 align="center">Hi 👋, I'm Wulawula~</h1>
 
-<h3 align="center">
-  Full-stack Developer • AI Agent Builder • Software Developer
-</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&height=60&lines=Full-stack+Developer;AI+Agent+Builder;Software+Developer"
        alt="Full-stack Developer · AI Agent Builder · Software Developer" />
 </p>
-
+<h3 align="center">
+  Full-stack Developer • AI Agent Builder • Software Developer
+</h3>
 ## 🚀 About Me
 
 - 🎓 Studying **Software Engineering**
