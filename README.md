@@ -69,39 +69,136 @@
 
 ## 🛠️ Software & Development Tools
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git"
-           width="45" height="45" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github"
-           width="45" height="45" alt="GitHub" />
-      <br />GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode"
-           width="45" height="45" alt="VS Code" />
-      <br />VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker"
-           width="45" height="45" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman"
-           width="45" height="45" alt="Postman" />
-      <br />Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux"
-           width="45" height="45" alt="Linux" />
-      <br />Linux
-    </td>
-  </tr>
+<table align="center">
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
+<br>HTML5
+</td>
+
+<td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
+<br>CSS3
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55"/>
+<br>JavaScript
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"/>
+<br>React
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45"/>
+<br>Bootstrap
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=flutter" width="45" height="45"/>
+<br>Flutter
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
+<br>Node.js
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
+<br>Express
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55"/>
+<br>Python
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
+<br>MySQL
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/>
+<br>MongoDB
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=firebase" width="45" height="45"/>
+<br>Firebase
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=solidity" width="45" height="45"/>
+<br>Solidity
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=rust" width="45" height="45"/>
+<br>Rust
+</td>
+
+<td align="center" width="90">
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" width="45" height="45"/>
+<br>Ethereum
+</td>
+
+<td align="center" width="90">
+<img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="45" height="45"/>
+<br>Solana
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
+<br>Git
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45"/>
+<br>GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="45" height="45"/>
+<br>VS Code
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postman" width="45" height="45"/>
+<br>Postman
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/>
+<br>Docker
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/>
+<br>Linux
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=figma" width="45" height="45"/>
+<br>Figma
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=npm" width="45" height="45"/>
+<br>NPM
+</td>
+</tr>
+
 </table>
 
 ---
