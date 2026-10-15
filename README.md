@@ -1,6 +1,8 @@
-   <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b7e4ed0-7bd4-4841-8c07-9ee46f0efe1c">
+<p align="center">  <img src="./profile-animation.gif" alt="Profile animation">
 </p>
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm Wulawula~</h1>
